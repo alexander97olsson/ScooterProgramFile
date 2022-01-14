@@ -11,9 +11,18 @@ Starta backend:
 ```
     docker-compose up -d server
 ```
-Starta webbclient: docker-compose up -d webbclient
-Starta cykel simulering: docker-compose up -d bike
-Starta appen: docker-compose up -d app
+Starta webbclient:
+```
+    docker-compose up -d webbclient
+```
+Starta cykel simulering:
+```
+    docker-compose up -d bike
+```
+Starta appen:
+```
+    docker-compose up -d app
+```
 
 För appen ger terminalen en QR-kod som måste skannas med mobilen för att köra.
 
