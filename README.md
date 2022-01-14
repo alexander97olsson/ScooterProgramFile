@@ -7,7 +7,10 @@ Länk till docker-compose filen: https://drive.google.com/file/d/1SMhEPOr0hLStIh
 
 Vill man starta separata delar från docker-compose filen kan man köra:
 
-Starta backend: docker-compose up -d server
+Starta backend:
+```
+    docker-compose up -d server
+```
 Starta webbclient: docker-compose up -d webbclient
 Starta cykel simulering: docker-compose up -d bike
 Starta appen: docker-compose up -d app
