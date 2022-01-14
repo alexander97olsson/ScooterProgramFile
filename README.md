@@ -1,4 +1,4 @@
-# ScooterProgramFile
+# Readme Scooter program
 Länk till docker-compose filen: https://drive.google.com/file/d/1SMhEPOr0hLStIhgTGTvMLBNN19QvtGiz/view?usp=sharing
 
 1. Ladda ner docker-compose filen.
@@ -11,7 +11,7 @@ Länk till docker-compose filen: https://drive.google.com/file/d/1SMhEPOr0hLStIh
     docker-compose down
 ```
 
-Vill man starta separata delar från docker-compose filen kan man köra:
+###Vill man starta separata delar från docker-compose filen kan man köra:
 
 Starta backend:
 ```
@@ -34,7 +34,7 @@ För appen ger terminalen en QR-kod som måste skannas med mobilen för att kör
 
 Stäng av allting genom: docker-compose down
 
-Github:
+###Github:
 
 Webbgränssittet:
 https://github.com/othorde/projekt
