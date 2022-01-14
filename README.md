@@ -1,4 +1,6 @@
 # Readme Scooter program
+Detta är en readme fil för hur man startar hela cykel programmet i kursen DV1610 H21 lp2 Webbaserade ramverk och designmönster på Blekinge Tekniska Högskola.
+Programmet är uppbyggt av 4 olika program och startar med en och samma docker-compose fil. Github till alla separata program finns längt ner i denna filen.
 Länk till docker-compose filen: https://drive.google.com/file/d/1SMhEPOr0hLStIhgTGTvMLBNN19QvtGiz/view?usp=sharing
 
 1. Ladda ner docker-compose filen.
